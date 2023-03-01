@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 97e62830245561a4e997c85f6715c96d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeathSound: {fileID: 8300000, guid: 783975781ac3ca945a9539773190b956, type: 3}
+  - CoinCollectedSound: {fileID: 8300000, guid: 381014bcffe95554daca1d664042f328,
+      type: 3}
+  - DashSound: {fileID: 8300000, guid: 141c9903c2611bc40b3e6828d0652819, type: 3}
+  - DoubleJumpSound: {fileID: 8300000, guid: 8a2eebb06fd341347af026033144053d, type: 3}
+  - PlayerStrikeSound: {fileID: 8300000, guid: 86b39a5e47a968842a1d846582607da7, type: 3}
+  - BuzzSawSound: {instanceID: 0}
+  - StrikingEnemySound: {fileID: 8300000, guid: 86b39a5e47a968842a1d846582607da7,
+      type: 3}
+  - HealingSound: {instanceID: 0}
+  - UpgradeSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

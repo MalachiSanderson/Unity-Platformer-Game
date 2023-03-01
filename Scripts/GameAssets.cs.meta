@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0f2bbf02e0dbd2f4db505451f11de0d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabDamagePopup: {instanceID: 0}
+  - playerDamagePopup: {instanceID: 0}
+  - genericNotificationPopup: {instanceID: 0}
+  - upgradeTextPopup: {instanceID: 0}
+  - tipsTextPopup: {instanceID: 0}
+  - coinObject: {instanceID: 0}
+  - frictionlessMaterial: {instanceID: 0}
+  - highFrictionMaterial: {instanceID: 0}
+  - bodySwapParticleEffect: {instanceID: 0}
+  - upgradeCollectedParticleEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
